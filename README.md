@@ -26,8 +26,8 @@ npm i # this should install all dependencies.
   - [x] Update info
 - [ ] Retro Consoles
   - [ ] Atari
-  - [ ] Nintendo
-  - [ ] Microsoft
+  - [x] Nintendo
+  - [x] Microsoft
   - [x] Sony
   - [ ] Sega
   - [ ] PR with more
